@@ -9,7 +9,7 @@
 
         <embed-many fieldName="items"
                     field="items"
-                    targetDocument="Application\Vespolina\CartBundle\Document\CartItem"
+                    targetDocument="Chewbacca\CartBundle\Document\CartItem"
         />
 
     </document>
